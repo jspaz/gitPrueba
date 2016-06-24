@@ -2,3 +2,4 @@
 2. Se crea branch para el archivo
 3. Se envía archivo al branch2
 4. Actualización de archivo2
+5. Inicia fase 2

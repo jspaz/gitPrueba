@@ -2,3 +2,4 @@
 2. Primer envío a Github
 3. Se envía al branch1
 4. Archivo actualizado
+5. Inicia fase 2

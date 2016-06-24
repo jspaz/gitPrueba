@@ -1,3 +1,4 @@
 1. Se crea archivo
 2. Se envía a branch3
 3. Se actualiza archivo3
+4. Inicia fase2

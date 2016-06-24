@@ -2,7 +2,5 @@
 2. Primer envío a Github
 3. Se envía al branch1
 4. Archivo actualizado
-<<<<<<< HEAD
-=======
 5. Inicia fase 2
->>>>>>> master
+

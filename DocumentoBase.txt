@@ -1,4 +1,5 @@
 1. Se crea documento
 2. Se sube al branch principal
 3. Inicia fase2
-4. Finalizaci�n fase2
+4. Finalización fase2
+5. Se integró correctamente al branch master
